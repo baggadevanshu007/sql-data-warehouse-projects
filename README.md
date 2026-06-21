@@ -6,7 +6,6 @@ The objective is to transform raw data into a centralized, analytics-ready platf
 
 The project follows a layered architecture approach to ensure scalability, maintainability, and high performance for business intelligence and analytical workloads.
 
-## There are three schemas within the Database (Datawarehouse), "bronze", "silver", "gold"
 
 ## Project Objectives
 
